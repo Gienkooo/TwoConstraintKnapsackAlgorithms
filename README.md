@@ -39,7 +39,7 @@ pip install minizinc==0.5.0
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Gienkooo/TwoConstraintKnapsackAlgorithms
+git clone https://github.com/Gienkooo/TwoConstraintKnapsackAlgorithms.git
 cd two-constraint-knapsack-algorithms
 ```
 
